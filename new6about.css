@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background: rgb(212, 39, 255);
+}
+ul{
+    position: absolute;
+    top: 5%;
+    right: 5%;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 50px;
+}
+ul li a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: white;
+}
+h1{
+    position: absolute;
+    top: 20%;
+    left: 28%;
+    font-size: 80px;
+    font-weight: 600;
+    color: rgb(243, 30, 243);
+    font-family: fantasy;
+    text-shadow: 5px 5px 2px black;
+}
+pre{
+    position: absolute;
+    top: 45%;
+    left: 10%;
+    font-family: cursive;
+    font-size: 30px;
+}
+.about2{
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+.about1{
+    position: absolute;
+    top: 51%;
+    right: 1%;
+}
